@@ -101,7 +101,3 @@ MH_EnableHook(MH_ALL_HOOKS);
 ---
 
 **Good luck, and use responsibly!**
-
---- 
-
-This README should now give a cleaner, more professional look while still conveying all necessary details of your DLL dumping tool.
